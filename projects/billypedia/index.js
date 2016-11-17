@@ -1,8 +1,6 @@
 /* global $ _ opspark */
 $(document).ready(function() {
     
-    $("#section-bio").css("font")
-    
     $.getJSON('data.json', function (data) {
         
         
